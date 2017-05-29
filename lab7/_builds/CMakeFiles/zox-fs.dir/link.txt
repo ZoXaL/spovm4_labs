@@ -1,0 +1,1 @@
+/usr/bin/cc  -fPIC   -shared -Wl,-soname,libzox-fs.so -o libzox-fs.so CMakeFiles/zox-fs.dir/src/zox-fs/cluster.c.o CMakeFiles/zox-fs.dir/src/zox-fs/zox-fs.c.o 

@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/lab7.dir/src/main.c.o CMakeFiles/lab7.dir/src/repl.c.o  -o lab7 libzox-fs.so -Wl,-rpath,/home/zoxal/D/BSUIR/4sem/SPOVM/labs/lab7/_builds 

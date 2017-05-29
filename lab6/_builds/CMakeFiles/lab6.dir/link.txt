@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/lab6.dir/src/main.c.o  -o lab6 libzox-mem.a -lglib-2.0 

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libzox-mem.a  CMakeFiles/zox-mem.dir/src/zox-mem/zox-mem.c.o CMakeFiles/zox-mem.dir/src/zox-mem/heap_block.c.o
+/usr/bin/ranlib libzox-mem.a

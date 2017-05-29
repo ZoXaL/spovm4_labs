@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/fail.dir/src/fail.c.o  -o fail 

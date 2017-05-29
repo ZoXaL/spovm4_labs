@@ -1,0 +1,4 @@
+/home/zoxal/D/BSUIR/4sem/SPOVM/labs/lab6/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/zoxal/D/BSUIR/4sem/SPOVM/labs/lab6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/zoxal/D/BSUIR/4sem/SPOVM/labs/lab6/cmake-build-debug/CMakeFiles/lab6.dir
+/home/zoxal/D/BSUIR/4sem/SPOVM/labs/lab6/cmake-build-debug/CMakeFiles/zox-mem.dir
